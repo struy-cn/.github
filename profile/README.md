@@ -1,7 +1,7 @@
 ## Hi there 👋
 this is StruggleYang Org
 
-site: [https://struy.cn](https://struy.cn)
+site: [https://struy.cn](https://struy.cn/about/)
 
 ![](https://img.struy.cn/img/202304212313285.png)
 
